@@ -56,13 +56,5 @@ streamlit run app.py
 2. View AI-generated answers.  
 3. Get a list of related trainers with clickable chat links!  
   
-
-## 📜 License  
-Distributed under the **MIT License**. See the `LICENSE` file for more information.  
-
 ## 📬 Contact  
 Maintained by **VIVEK RAIKWAR**. For any queries or collaborations, feel free to connect!
-
----
-
-Now, you can simply copy-paste this text into your `README.md` file. Let me know if you'd like further changes! 😊
