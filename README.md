@@ -1,4 +1,5 @@
-🤖 DebugMentor AI
+                                                                  🤖 DebugMentor AI
+
 Welcome to DebugMentor AI — an intelligent community chatbot that answers user queries and recommends expert trainers based on your needs!
 
 Built with Streamlit, Sentence Transformers, Supabase, and powered by the Groq Llama-3.1-70b model, this project connects users to domain experts while delivering AI-driven conversational responses.
@@ -77,4 +78,5 @@ View AI-generated answers and get a list of related trainers with clickable chat
 
 📬 Contact
 Maintained by Vivek Raikwar.
+
 For any queries or collaborations, feel free to connect!
